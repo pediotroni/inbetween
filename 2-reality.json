@@ -5,7 +5,7 @@
   "inbounds": [
     {
       "listen": "0.0.0.0",
-      "port": 8443,
+      "port": 443,
       "protocol": "vless",
       "settings": {
         "clients": [
@@ -21,13 +21,13 @@
         "security": "reality",
         "realitySettings": {
           "show": false,
-          "dest": "www.cloudflare.com:8443",
+          "dest": "www.cloudflare.com:443",
           "xver": 0,
           "serverNames": [
             "www.cloudflare.com",
             "cloudflare.com"
           ],
-          "privateKey": "کلید خصوصی را اینجا بنویس بالام جان",
+          "privateKey": "wDM23dqFtTppC6XZvJY1wKjZHAfu14zyOk5ZFcCnPlg",
           "shortIds": [
             "deadbeef",
             "0123456789abcdef"
