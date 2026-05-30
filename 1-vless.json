@@ -1,0 +1,29 @@
+{
+   "log": {
+      "loglevel": "info"
+   },
+
+   "inbounds": [
+      {
+         "port": 8443,
+         "protocol": "vless",
+         "settings": {
+            "clients": [
+               {
+                  "id": "1-22-333-4444-55555"
+               }
+            ],
+            "decryption": "none"
+         },
+         "streamSettings": {
+            "network": "tcp"
+         }
+      }
+   ],
+
+   "outbounds": [
+      {
+         "protocol": "freedom"
+      }
+   ]
+}
