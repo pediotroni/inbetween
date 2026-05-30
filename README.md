@@ -9,3 +9,5 @@
 5) xray.exe x25519 
 
 6) xray.exe run -c reality.json
+
+7) PubKey: gmR6nKzjEt8Q9ABww2v7VPFo-lh_LJ6_SUaQSRoApR4
