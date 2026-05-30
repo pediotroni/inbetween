@@ -3,3 +3,5 @@
 2) Running the server: xray.exe run -config config.json
 
 3) Choose which config you like
+
+4) vless://11111111-2222-3333-4444-555555555555@50.90.70.151:8443?type=tcp&security=none#Babak-Test
